@@ -1,0 +1,11 @@
+
+# Load Theme
+include catppuccin-frappe
+
+# Default inverted Colors
+# set recolor true
+
+
+# Change default Size
+set window-width 1200
+set window-height 1300
